@@ -1,8 +1,6 @@
 ## Detecção de Câncer de Mama com Redes Neurais MLP
 
-Este repositório contém a implementação em Python de um modelo de Rede Neural Artificial Multicamadas (MLP) para a detecção de câncer de mama, replicando o estudo apresentado no artigo "[## Detecção de Câncer de Mama com Redes Neurais MLP
-
-Este repositório contém a implementação em Python de um modelo de Rede Neural Artificial Multicamadas (MLP) para a detecção de câncer de mama, replicando o estudo apresentado no artigo "[Título do Artigo]".
+Este repositório contém a implementação em Python de um modelo de Rede Neural Artificial Multicamadas (MLP) para a detecção de câncer de mama, utilizando a base da WDBC".
 
 **Objetivo:**
 
